@@ -3,7 +3,6 @@ import React, { useState, useEffect } from 'react'
 import { Selector, Wrapper } from './styled'
 import constants from './constants'
 
-
 const update = (arr, idx, itm) => {
     arr[idx] = itm;
     return arr

@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { getResultFirst, getResultSecond, getResultThird, getResultFourth, getResultFifth } from './utils'
 
 const formulas = {
